@@ -6,5 +6,8 @@ class Kisi:
 	def karsilama(self):
 		print("Hos Geldin ",self.ad)
 
+	def ugurlama(self)
+		print("Güle Güle",self.ad)
+
 kisi1=Kisi("Cavit",35)
 kisi1.karsilama()
